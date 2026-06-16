@@ -1,12 +1,13 @@
-# Hi, I'm Tasha 👋 Economist · Data Scientist · Sustainability student
- 📍 Ingolstadt, Germany  |  🎓 MSc Sustainability Management and Technologies Candidate | BSc Economics and Econometrics
+# Hi, I'm Tasha 👋 
+Economist · Data Scientist · Sustainability student
+📍 Ingolstadt, Germany  |  🎓 MSc Sustainability Management and Technologies Candidate | BSc Economics and Econometrics
  
 **What I work on**: I build econometric models and data pipelines at the intersection of **sustainability, policy research, and predictive analytics**. My work spans causal inference (IV regression), ML classification, simulation modelling, and ESG data analysis. 
 
  **Featured Projects | Project | Domain | Methods | |---|---|---| |**
  
  [🎓 IV & Institutional Growth](https://github.com/tkay305/IV-Regression-Institutions-Growth) | Research | 2SLS, IV Regression | |
- [🌱 Net Zero Municipal Simulation]| ESG | Monte Carlo, Scenario Modelling | |
+ [🌱 Net Zero Municipal Simulation]| ESG | Scenario Modelling | |
  [🌾 Predictive Agriculture](https://github.com/tkay305/Predictive-Modeling) | DS | Random Forest, XGBoost | | 
  [🛒 Retail Strategy Analytics](https://github.com/tkay305/Retail-Projects | DS | Clustering, Forecasting)| |
 
