@@ -7,7 +7,7 @@ Economist · Data Scientist · Sustainability student
  **Featured Projects | Project | Domain | Methods | |---|---|---| |**
  
  [🎓 IV & Institutional Growth](https://github.com/tkay305/IV-Regression-Institutions-Growth) | Research | 2SLS, IV Regression | |
- [🌱 Net Zero Municipal Simulation]| ESG | Scenario Modelling | |
+ [Nestle ESG Reporting Analysis]| ESG | Research | Policy |
  [🌾 Predictive Agriculture](https://github.com/tkay305/Predictive-Modeling) | DS | Random Forest, XGBoost | | 
  [🛒 Retail Strategy Analytics](https://github.com/tkay305/Retail-Projects | DS | Clustering, Forecasting)| |
 
