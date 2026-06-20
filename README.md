@@ -7,7 +7,8 @@ Economist · Data Scientist · Sustainability student
  **Featured Projects | Project | Domain | Methods | |---|---|---| |**
  
  [🎓 IV & Institutional Growth](https://github.com/tkay305/IV-Regression-Institutions-Growth) | Research | 2SLS, IV Regression | |
- [Nestle ESG Reporting Analysis](https://github.com/tkay305/tkay305.github.io/blob/main/projects/nestle_esg_analysis.qmd)| ESG | Research | Policy |
+ [Nestle ESG Reporting Analysis](https://tkay305.github.io/projects/nestle_esg_analysis.html)| ESG | Research | Policy |
+ [Coffee Production Equity](https://tkay305.github.io/projects/coffee_sustainability.html)| ESG | Research | Policy |
  [🌾 Predictive Agriculture](https://github.com/tkay305/Predictive-Modeling) | DS | Random Forest, XGBoost | | 
  [🛒 Retail Strategy Analytics](https://github.com/tkay305/Retail-Projects | DS | Clustering, Forecasting)| |
 
